@@ -16,6 +16,14 @@
 #
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
+- title: 'NRG: A Network Perspective on Applications Performance'
+  authors: Noa Zilberman, Andrew W Moore, Billy Cooper, Jackson Woodruff, Yuta Tokusashi, Pietro Bressana, Murali Ramanujam, Diana Andreea Popescu, Salvator Galea.
+  conf: TMA 2021
+  url: https://www.muralisr.com/pdfs/nrg_tma21.pdf
+- title: 'Marauder: Synergized Caching and Prefetching for Low-Risk Mobile App Acceleration'
+  authors: Murali Ramanujam, Harsha Madhyastha, Ravi Netravali
+  conf: MobiSys 2021
+  url: https://www.muralisr.com/pdfs/marauder_mobisys21.pdf
 - title: 'Continuous Prefetch for Interactive Data Applications'
   authors: Haneen Mohammed, Ziyun Wei, Ravi Netravali, Eugene Wu
   conf: VLDB 2020
