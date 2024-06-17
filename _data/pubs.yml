@@ -16,6 +16,12 @@
 #
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
+#
+
+- title: "Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming"
+  authors: Zhuqi Li, Yaxiong Xie, Ravi Netravali, Kyle Jamieson
+  conf: NSDI 2023
+  url: https://www.cs.princeton.edu/~ravian/publications/dashlet_nsdi23.pdf
 - title: "DESDR: Ethiopia Insurance Policy Design Interface"
   authors: Joseph Rebagliati, Iman Anwarzai, Daniel Osgood, Eugene Wu
   conf: Website
