@@ -21,5 +21,9 @@ The supporting research brings together performance and scheduling ideas from th
 * Daniel Rubenstein, Columbia University 
 * Ravi Netravali, Princeton University
 
+
+## Software
+
+* [Physical Visualization Design](https://github.com/cudbg/physicalvisualizationdesign)
 <!--## Open Source Software-->
 
