@@ -24,6 +24,7 @@ The supporting research brings together performance and scheduling ideas from th
 
 ## Software
 
+* [Dashlet](https://github.com/PrincetonUniversity/Dashlet)
 * [Physical Visualization Design](https://github.com/cudbg/physicalvisualizationdesign)
 <!--## Open Source Software-->
 
