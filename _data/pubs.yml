@@ -18,6 +18,13 @@
 #
 #
 
+- title: 'Physical Visualization Design: Decoupling Interface and System Design'
+  url: https://www.dropbox.com/scl/fi/1tevjqwenoq9x8anf6x5s/pvd-sigmod25-cr.pdf?rlkey=0jz9c2fop4v1n7u43egzng4u2&dl=0
+  conf: SIGMOD 2025
+  authors: Yiru Chen, Xupeng Li, Jeff Tao, Lana Ramjit, Ravi Netravali, Subrata Mitra, Aditya Parameswaran, Javad Ghaderi, Dan Rubenstein, Eugene Wu
+- title: 'Visualization-Oriented Progressive Time Series Transformation'
+  authors: Xin Chen, Lingyu Zhang, Huaiwei Bao, Wei Lu, Eugene Wu, Xiaohui Yu, Yunhai Wang
+  conf: In Review
 - title: "Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming"
   authors: Zhuqi Li, Yaxiong Xie, Ravi Netravali, Kyle Jamieson
   conf: NSDI 2023
