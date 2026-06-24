@@ -17,18 +17,63 @@
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
 #
+#
+- title: "A Decade of Systems for Human Data Interaction"
+  authors: Eugene Wu, Yiru Chen, Haneen Mohammed, Zezhou Huang
+  url: https://arxiv.org/abs/2511.15585
+  slides: https://www.dropbox.com/scl/fi/0c77r8nyug0ejj3u4aiyy/2025-06-hilda-keynote.pdf?rlkey=qdgv0x0kp37awg2dkoz3lfl9t&st=5y4tt487&dl=0
+  conf: Information Systems Special Issue on Human-In-the-Loop Data Analytics 2026
+- title: "Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"
+  authors: Jean-Daniel Fekete, Yifan Hu, Dominik Moritz, Arnab Nandi, Senjuti Basu Roy, Eugene Wu, Nikos Bikakis, George Papastefanatos, Panos K. Chrysanthis, Guoliang Li, Lingyun Yu
+  url: https://arxiv.org/pdf/2603.05542
+  conf: SIGMOD Record 2026
+
+- title: "Towards a Grammar-Based Theory of Visual Analytics"
+  authors: Alexandra Scott, Manling Yang, Ashley Suh, Eugene Wu, Remco Chang
+  conf: Visualization Viewpoints 2026
+  tags:
+    - vis
+
+- title: "Visual Decoding Operators: Towards a Compositional Theory of Visualization Perception"
+  authors: Sheng Long, Matthew Kay, Alex Kale, Remco Chang, Eugene Wu
+  future: true
+  conf: ArXiV 2026
+  url: https://arxiv.org/pdf/2604.02220
+  tags:
+    - vis
+
+- title: "Lineage Capture Trade-offs: A Case Study in DuckDB"
+  authors: Haneen Mohammed, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  url: https://www.dropbox.com/scl/fi/7hb9n66yjghwrc15sw5pu/smokedduck-compare-provweek25-submitted.pdf?rlkey=8ab4yhzey4twi1s9f0vx8hkeq&dl=0
+  short: true
+- title: "DEMO: Fast Hypothetical Update Evaluation"
+  authors: Haneen Hohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gramit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  url: https://www.dropbox.com/scl/fi/g9n1934x3v2skdmky7rr7/fade-vldb25-cr.pdf?rlkey=goplr3um7xyxqb9bow56v4sgy&dl=0
+  short: true
+- title: Compression for High-Performance Lineage
+  authors: Xiaoyu Han, Haneen Mohammed, Charlie Summers, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  short: true
+  url: https://www.dropbox.com/scl/fi/umu70z0bd932po25h9oh1/smokedduck-compression-provweek25-submitted.pdf?rlkey=zv1smphre33ak9jgxk2z583ju&dl=0
+  video: "https://drive.google.com/file/d/2lHwmCBr3WVu1vHHnQuq8qAq3EcCrVWo3/view?usp=sharing"
 
 - title: 'Physical Visualization Design: Decoupling Interface and System Design'
   url: https://www.dropbox.com/scl/fi/1tevjqwenoq9x8anf6x5s/pvd-sigmod25-cr.pdf?rlkey=0jz9c2fop4v1n7u43egzng4u2&dl=0
   conf: SIGMOD 2025
   authors: Yiru Chen, Xupeng Li, Jeff Tao, Lana Ramjit, Ravi Netravali, Subrata Mitra, Aditya Parameswaran, Javad Ghaderi, Dan Rubenstein, Eugene Wu
-- title: 'Visualization-Oriented Progressive Time Series Transformation'
+
+- title: "Visualization-Oriented Progressive Time Series Transformation"
   authors: Xin Chen, Lingyu Zhang, Huaiwei Bao, Wei Lu, Eugene Wu, Xiaohui Yu, Yunhai Wang
-  conf: In Review
+  url: https://dl.acm.org/doi/10.1145/3769841
+  conf: SIGMOD 2025
+
 - title: "Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming"
   authors: Zhuqi Li, Yaxiong Xie, Ravi Netravali, Kyle Jamieson
   conf: NSDI 2023
   url: https://www.cs.princeton.edu/~ravian/publications/dashlet_nsdi23.pdf
+
 - title: "DESDR: Ethiopia Insurance Policy Design Interface"
   authors: Joseph Rebagliati, Iman Anwarzai, Daniel Osgood, Eugene Wu
   conf: Website
@@ -40,6 +85,7 @@
   tags:
     - vis
     - db
+
 - title: 'OM3: An Ordered Multi-level Min-Max Representation for Interactive Progressive Visualization of Time Series'
   authors: Yunhai Wang, Yuchun Wang, Xin Chen, Yue Zhao, Fan Zhang, Eugene Wu, Chi-Wing Fu, Xiaohui Yu
   conf: SIGMOD 2023
